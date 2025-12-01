@@ -13,3 +13,16 @@ Folder "exp1_computationTest" gives the first experiment results in the paper, t
 Folder "exp2_with_without_rolling_test" provides the second experiment results in the paper, including both numerical results and video animations.
 
 Folder "exp3_monte_carlo_test" provides the third experiment results in the paper, aiming to compare the robustness between Gurobi-based MPC and search-based MPC.
+
+## Citation
+
+If you find this helpful in your research, please cite:
+
+```
+@article{zhang2025data,
+  title={A Data-Driven Model Predictive Control Framework for Multi-Aircraft TMA Routing Under Travel Time Uncertainty},
+  author={Zhang, Yi and Long, Yushen and Huang, Liping and Zhang, Yicheng and Zhang, Sheng and Yin, Yifang},
+  journal={arXiv preprint arXiv:2511.19452},
+  year={2025}
+}
+```
