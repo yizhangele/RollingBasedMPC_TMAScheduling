@@ -4,7 +4,7 @@ The proposed scheduler is a closed-loop framework to provide conflict-free routi
 This repository is aiming to provide the simulation results and videos for the following paper.
 
 For more details, please find from paper: "Data-Driven Model Predictive Control for TMA Multi-Aircraft Routing
-Under Travel Time Uncertainty", submitted to the Workshop on Artificial Intelligence for Air Transportation (AI4AT) @ AAAI 2026.
+Under Travel Time Uncertainty", presented at the Workshop on Artificial Intelligence for Air Transportation (AI4AT) @ AAAI 2026, and accepted as Conference Paper for the IEEE International Conference on Intelligent Transportation Systems (ITSC 2026).
 
 ## Repository structure
 
